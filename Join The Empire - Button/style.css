@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+}
+
+body {
+  background: url("http://wallpaperesque.com/wp-content/uploads/plixpapers1504/star_wars_wallpaper_background_33297.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-family: "Orbitron", sans-serif;
+  height: 100%;
+  text-align: center;
+  color: #800080;
+  font-size: 60px;
+  font-weight: 700;
+  opacity: 0.9;
+}
+
+div {
+  width: 100px;
+  box-shadow: 0 10px 10px grey;
+  transition: 0.3s ease;
+  border-radius: 80px;
+  margin: 170px auto;
+  text-align: center;
+  font-size: 80px;
+  color: #483d8b;
+  padding: 10px;
+}
+
+div:hover {
+  box-shadow: 0 5px 10px #9400d3;
+  transform: translateY(5px);
+  color: #000080;
+}
+
+div:active {
+  color: #8c1717;
+  transform: translateY(9px);
+  box-shadow: 0 0 2px #9400d3;
+}
+
+a {
+  color: #8b008b;
+}
