@@ -1,2 +1,3 @@
 # Star-Wars-Series
-A series of simple pages dedicated to my favorite series
+
+A few simple apps dedicated to my favorite saga, just for fun.
